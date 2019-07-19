@@ -5,5 +5,3 @@ server:
   port: 8805
 management:
   port: 9805
-  security:
-    enabled: false

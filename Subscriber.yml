@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: Subscriber
-
 server:
   port: 8002

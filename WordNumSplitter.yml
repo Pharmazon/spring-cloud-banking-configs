@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: WordNumSplitter
-
 server:
   port: 8005
 

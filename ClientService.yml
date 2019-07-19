@@ -5,5 +5,3 @@ server:
   port: 8801
 management:
   port: 9801
-  security:
-    enabled: false
